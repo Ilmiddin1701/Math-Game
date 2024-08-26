@@ -8,11 +8,11 @@ import android.os.Build
 import android.os.Bundle
 import android.os.VibrationEffect
 import android.os.Vibrator
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import uz.ilmiddin1701.math_game.databinding.ActivityMainBinding
 import java.util.Random
 
+@Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
     private var number1 = 0

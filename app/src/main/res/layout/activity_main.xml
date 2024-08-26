@@ -25,7 +25,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/my_font_1"
-            android:text="@string/_428_500"
             android:textColor="#FCFCF7"
             android:textSize="@dimen/_35ssp" />
     </LinearLayout>
@@ -49,7 +48,7 @@
             android:background="@drawable/tv_style"
             android:fontFamily="@font/my_font_1"
             android:gravity="center"
-            android:hint="@string/javob"
+            android:hint="@string/answer"
             android:paddingHorizontal="10dp"
             android:paddingVertical="5dp"
             android:textColor="#2C2C2C"

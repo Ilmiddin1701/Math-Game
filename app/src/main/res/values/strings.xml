@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Math Game</string>
-    <string name="javob">Javob</string>
-    <string name="_428_500">428 + 500 = ?</string>
-    <string name="btn_1">btn_1</string>
+    <string name="answer">Javob</string>
+    <string name="btn_1">btn_\1</string>
     <string name="btn_4">btn_4</string>
     <string name="btn_7">btn_7</string>
     <string name="btn_2">btn_2</string>
